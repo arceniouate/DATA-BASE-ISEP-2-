@@ -18,8 +18,8 @@ INSERT INTO musica VALUES (5, 1, 'Vandals', 'The Vandals', 4.01);
 INSERT INTO musica VALUES (6, 1, 'Days of the Phoenix', 'AFI', 3.28);
 INSERT INTO musica VALUES (7, 1, 'Wester', 'AFI', 3.02);
 
-INSERT INTO musica VALUES (1, 2, 'Bizet: Les pécheurs de perles...', 'Orquestra Filarmónica Real', 5.24);
-INSERT INTO musica VALUES (2, 2, 'Verdi: Otello/Act 2', 'Orquestra Sinfónica Chicago', 6.47);
+INSERT INTO musica VALUES (1, 2, 'Bizet: Les pï¿½cheurs de perles...', 'Orquestra Filarmï¿½nica Real', 5.24);
+INSERT INTO musica VALUES (2, 2, 'Verdi: Otello/Act 2', 'Orquestra Sinfï¿½nica Chicago', 6.47);
 INSERT INTO musica VALUES (3, 2, 'Verdi: Aida/Act 4', 'Loring Maazel', 4.38);
 INSERT INTO musica VALUES (4, 2, 'Puccini: Turandot', 'Zubin Mehta', 3.08);
 
@@ -44,16 +44,16 @@ INSERT INTO musica VALUES (6, 5, 'Summer of Love', 'U2', 3.24);
 INSERT INTO musica VALUES (7, 5, 'Red Flag Day', 'U2', 3.19);
 INSERT INTO musica VALUES (8, 5, 'The Showman', 'U2', 3.23);
 
-INSERT INTO musica VALUES (1, 6, 'Valsa em Espiral', 'Miguel Araújo', 3.34);
-INSERT INTO musica VALUES (2, 6, '1987' , 'Miguel Araújo', 4.12);
-INSERT INTO musica VALUES (3, 6, 'Meio Conto', 'Miguel Araújo', 3.13);
-INSERT INTO musica VALUES (4, 6, 'Via Norte', 'Miguel Araújo', 3.35);
-INSERT INTO musica VALUES (5, 6, 'Sangemil', 'Miguel Araújo', 4.03);
-INSERT INTO musica VALUES (6, 6, 'Lurdes Valsa Lenta', 'Miguel Araújo', 4.41);
-INSERT INTO musica VALUES (7, 6, 'Axl Rose', 'Miguel Araújo', 5.03);
-INSERT INTO musica VALUES (8, 6, '20% Mais', 'Miguel Araújo', 1.20);
-INSERT INTO musica VALUES (9, 6, 'Vândalo', 'Miguel Araújo', 4.45);
-INSERT INTO musica VALUES (10, 6, 'Aqui Dali', 'Miguel Araújo', 4.45);
+INSERT INTO musica VALUES (1, 6, 'Valsa em Espiral', 'Miguel Araujo', 3.34);
+INSERT INTO musica VALUES (2, 6, '1987' , 'Miguel Araujo', 4.12);
+INSERT INTO musica VALUES (3, 6, 'Meio Conto', 'Miguel Araujo', 3.13);
+INSERT INTO musica VALUES (4, 6, 'Via Norte', 'Miguel Araujo', 3.35);
+INSERT INTO musica VALUES (5, 6, 'Sangemil', 'Miguel Araujo', 4.03);
+INSERT INTO musica VALUES (6, 6, 'Lurdes Valsa Lenta', 'Miguel Araujo', 4.41);
+INSERT INTO musica VALUES (7, 6, 'Axl Rose', 'Miguel Araujo', 5.03);
+INSERT INTO musica VALUES (8, 6, '20% Mais', 'Miguel Araujo', 1.20);
+INSERT INTO musica VALUES (9, 6, 'Vandalo', 'Miguel Araujo', 4.45);
+INSERT INTO musica VALUES (10, 6, 'Aqui Dali', 'Miguel Araujo', 4.45);
 
--- ** guardar em DEFINITIVO as alterações na base de dados, se a opção Autocommit do SQL Developer não estiver ativada **
+-- ** guardar em DEFINITIVO as alteraï¿½ï¿½es na base de dados, se a opï¿½ï¿½o Autocommit do SQL Developer nï¿½o estiver ativada **
 -- COMMIT;
